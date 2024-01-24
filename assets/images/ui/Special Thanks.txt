@@ -1,0 +1,2 @@
+This is where I got the sources for some things, mainly the cursors and fonts.
+www.github.com/zabdalimov/win98
