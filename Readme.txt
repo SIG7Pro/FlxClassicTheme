@@ -1,10 +1,11 @@
-// Flixel Classic Theme //
+// HaxeFlixel Classic Theme 95
+(Formerly named Flixel Classic Theme)
+Codename FlxClassicTheme //
 
  # About
 / This is a project meant to emulate the look (and possibly feel) of legacy Windows.
-/ Legacy Windows in the sense of Windows 95/98, or the Classic Theme provided in Windows Vista and Windows 7. (Not the internal Classic theme from Windows 8.0 and up, which is just Windows V/7 Basic.)
+/ Legacy Windows in the sense of Windows 95 through Windows 2000, or the Classic Theme provided in Windows XP through Windows 7. (Not the internal Classic theme from Windows 8.0 and up, which is just Windows V/7 Basic.)
 / One could also compare this to Wine's "No Theme" look, which makes sense.
-/ The name is likely going to be a placeholder if I can find a better name for it.
 
  # To Do
 - Add the look of Windows in a HaxeFlixel project. (High Priority)
@@ -17,8 +18,21 @@
 - First Build (Linux Build Tested on Zorin OS 17{?}, 1:49 PM.)
 - Finished writing the first draft of this Readme file. (5.4 KB / 1:59 PM.)
 
+- Inserted custom font restorations. (Jan 30th, 2024. 2:59-3:00 AM / 3:09 AM)
+  // {Essentially read: https://stackoverflow.com/questions/30683657/use-windows-95-font-on-webpage but scroll down a bit to where it starts with "Here is a way that worked quite well." You'll see what I mean if you pay attention.)
+- Custom Splash Screen (forgot exactly when it was implemented, but speculated around Friday January 26th, at roughly 12 PM EST)
+  // Still WIP however, mainly where I have the "Initialize" text placed at and the font it uses exactly.
 
 
+# Special Thanks
+- This: https://stackoverflow.com/questions/30683657/use-windows-95-font-on-webpage
+- Microsoft: Main inspiration.
+
+# Areas of Access
+- Haxe Discord Server Forum Post
+  // https://discord.com/channels/162395145352904705/1199895956796211361 (projects > HaxeFlixel Classic 95)
+- GitHub Repo
+  // https://www.github.com/SIG7Pro/FlxClassicTheme
 
                                                                 %%%%%%%%%%%%%%%%%%%%%%%%@           
                                                         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    

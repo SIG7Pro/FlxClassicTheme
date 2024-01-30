@@ -6,12 +6,14 @@
 	
 		<!--
 		
-		This is meant to "emulate" the visual style of Windows 95
-			(Also used as the Windows Classic theme for Windows Vista, 7,
-			and I think XP as well, not sure. Also used as the "No Theme" for
+		This is meant to "emulate" the GUI look and feel from Windows 95, Windows 98, Windows ME, and Windows 2000.
+			(Also used as the Windows Classic theme for Windows XP, Vista,
+			and Windows 7 a. Also used as the "No Theme" for
 			Wine.)
 		I might make a theme based off of regular Windows XP or 3.X, not 1.X/2.X since
-			that'd seem very minimal to do, if that makes sense."
+			that'd seem very minimal to do, if that makes sense. And Windows 3's
+			UI is  basically what Windows 95's was before it was good. (Windows
+			NT 3.5 is also a good area to see.)
 				
 		Doesn't include mobile button support.
 		
@@ -51,10 +53,13 @@
 	<haxelib name="flixel" />
 
 	<!--In case you want to use the addons package-->
-	<!--<haxelib name="flixel-addons" />-->
+	<haxelib name="flixel-addons" />
 
-	<!--In case you want to use the ui package-->
-	<!--<haxelib name="flixel-ui" />-->
+	<!--In case you want to use the ui package
+	<haxelib name="flixel-ui" /> 
+	Was gonna use HaxeUI and HaxeUI-Flixel instead of Flixel-UI neither went through.
+	<haxelib name="haxeui-core" />
+	<haxelib name="haxeui-flixel" /> -->
 
 	<!--In case you want to use nape with flixel-->
 	<!--<haxelib name="nape-haxe4" />-->
